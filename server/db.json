@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is Post",
+      "publishedAt": "16-07-2023"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is Post",
+      "publishedAt": "16-07-2023"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is Post",
+      "publishedAt": "16-07-2023"
+    },
+    {
+      "title": "follow",
+      "body": "f",
+      "publishedAt": "2023-07-16",
+      "id": "2KpE7Pb"
+    }
+  ],
+  "users": [
+    {
+      "name": "Ahmed Habib",
+      "email": "ahmedboboooooko@gmail.com",
+      "id": "fRH51ha"
+    }
+  ]
+}
